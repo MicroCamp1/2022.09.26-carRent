@@ -1,0 +1,6 @@
+pl/camp/micro/car/rent/App.class
+pl/camp/micro/car/rent/model/Car.class
+pl/camp/micro/car/rent/database/CarRepository2.class
+pl/camp/micro/car/rent/database/CarRepository.class
+pl/camp/micro/car/rent/database/ICarRepository.class
+pl/camp/micro/car/rent/gui/GUI.class
